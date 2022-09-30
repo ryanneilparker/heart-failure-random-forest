@@ -1,6 +1,6 @@
 # heart-failure-random-forest
 
-A comparison of a tuned decision tree model vs. an untuned random forest model on predicting heart failure from patent data.
+A comparison of the accuracy of a tuned decision tree model vs. an untuned random forest model at predicting heart failure from patent data.
 
 ## Methodology
 
